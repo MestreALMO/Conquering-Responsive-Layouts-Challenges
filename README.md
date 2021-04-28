@@ -32,24 +32,28 @@
 <p>Here are the images of all the completed challenges:</p>
 
 <p align="center">
-  Challenge 01
+  Challenge 01 - Replic what was shown
   <img src="_README.md/Completed/challenge01.png">
 </p>
 <p align="center">
-  Challenge 02
+  Challenge 02 - Replic what was shown
   <img src="_README.md/Completed/challenge02.png">
 </p>
 <p align="center">
-  Challenge 03
+  Challenge 03 - Replic the PDF file
   <img src="_README.md/Completed/challenge03.png">
 </p>
 <p align="center">
-  Challenge 04
+  Challenge 04 - Do the PDF sections
   <img src="_README.md/Completed/challenge04.png">
 </p>
 <p align="center">
-  Challenge 05
+  Challenge 05 - Do the Second section of the site
   <img src="_README.md/Completed/challenge05.png">
+</p>
+<p align="center">
+  Challenge 06 - Navbar
+  <img src="_README.md/Completed/challenge06.png">
 </p>
 
 <p>For more details on the challenges you can access the folder "Challenges as they were displayed", where I posted all challenges as the were passed down to me</p>
