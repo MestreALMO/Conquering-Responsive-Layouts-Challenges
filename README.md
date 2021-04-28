@@ -53,11 +53,11 @@
 </p>
 
 <p>For more details on the challenges you can access the folder "Challenges as they were displayed", where I posted all challenges as the were passed down to me</p>
+<p>The full course can be found at https://courses.kevinpowell.co/</p>
 
 ## Prerequisites
-It is need to install some tools, Click on the link to see the ones I used to run with Windows O.S.
-<br/>
-[Link](https://github.com/MestreALMO/React-Requires-To-Run-Windows-)
+  * VSC (Visual Studio Code)
+  * Live Server Extension
 
 
 ## Running
