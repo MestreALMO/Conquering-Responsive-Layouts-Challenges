@@ -57,6 +57,7 @@
 </p>
 <p align="center">
   Challenge 07 - Duplicating site from PDF from scratch
+  <br />
   <img src="_README.md/Completed/challenge07.gif">
 </p>
 
