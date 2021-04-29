@@ -55,6 +55,10 @@
   Challenge 06 - Navbar
   <img src="_README.md/Completed/challenge06.png">
 </p>
+<p align="center">
+  Challenge 07 - Duplicating site from PDF from scratch
+  <img src="_README.md/Completed/challenge07.gif">
+</p>
 
 <p>For more details on the challenges you can access the folder "Challenges as they were displayed", where I posted all challenges as the were passed down to me</p>
 <p>The full course can be found at https://courses.kevinpowell.co/</p>
